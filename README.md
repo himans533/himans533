@@ -74,23 +74,6 @@ I specialize in **Java Backend Development**, building robust REST APIs, secure 
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-### 🔥 Streak  
-<img src="https://streak-stats.demolab.com?user=HimanshuHanwat&theme=highcontrast&hide_border=true" />
-
-### 📈 Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=HimanshuHanwat&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-### 🧠 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuHanwat&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
