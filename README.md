@@ -1,69 +1,97 @@
-<h1 align="left">Hey 👋 I'm Full Stack Java Developer</h1>
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFB3&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Himanshu+Hanwat;Full+Stack+Java+Developer;Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+SQL;Passionate+Learner+%26+Problem+Solver" />
+</p>
 
-###
+---
 
-<p align="left">My name is Himanshu Hanwat and A passionate backend developer from India. I have done my backend Java development course jurney and currently I'm looking for Job As Java developer .</p>
+## 🚀 About Me
 
-###
+👋 Hi! I'm **Himanshu Hanwat**, a passionate **Full Stack Java Developer** from India.  
+I love building scalable backend systems, APIs, and clean architectures using **Java + Spring Boot**.
 
-<h2 align="left">About me</h2>
+- 🔭 Currently working on: **Backend Projects (Java | Spring Boot)**  
+- 🌱 Learning: **Microservices, Spring Security, AWS**  
+- 🎯 Goals: **Land a Java Developer role & contribute to open-source**  
+- ⚡ Fun fact: *"I fix bugs I created at 2 AM and feel proud about it 😄"*  
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 🛠️ Tech Stack
 
-###
+### 🚩 **Backend & Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" />
+</p>
 
-<h2 align="left">I code with</h2>
+### 🗄️ **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
 
-###
+### 🌐 **Frontend Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+### 🛠️ **DevOps & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github" />
+</p>
+
+### 🔧 **Tools & IDE**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=intellij,vscode,postman,figma,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### 🔥 Streaks  
+<img src="https://streak-stats.demolab.com?user=HimanshuHanwat&theme=highcontrast&hide_border=true" />
+
+### 📈 Contribution Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=HimanshuHanwat&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+
+### 🧠 Most Used Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuHanwat&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
+## 🐍 Contribution Snake (Animated)
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="mailto:YOURMAIL@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
+</p>
+
+---
+
+## ❤️ Support My Work  
+If you like my projects, consider ⭐ **starring my repositories**!
+
+---
 
