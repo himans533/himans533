@@ -17,8 +17,6 @@ I specialize in **Java Backend Development**, building robust REST APIs, secure 
 
 ---
 
-# 🛠️ **Clickable Skill Icons (Redirect to Official Docs)**
-
 ### 🔥 Backend & Core Languages
 
 <p align="left">
