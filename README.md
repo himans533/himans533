@@ -78,18 +78,20 @@ I specialize in **Java Backend Development**, building robust REST APIs, secure 
 
 # 📊 GitHub Stats
 
+<!-- ⭐ GitHub Stats -->
 <div align="center">
 
-### 🔥 Streak  
-<img src="https://streak-stats.demolab.com?user=HimanshuHanwat&theme=highcontrast&hide_border=true" />
+<!-- Streak Stats (WORKING) -->
+<img src="https://streak-stats.demolab.com?user=HimanshuHanwat&theme=tokyonight&hide_border=true" height="180" />
 
-### 📈 Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=HimanshuHanwat&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<!-- MAIN GITHUB STATS (MIRROR SERVER - MORE STABLE) -->
+<img src="https://github-readme-stats-git-mastermr-fork.vercel.app/api?username=HimanshuHanwat&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
-### 🧠 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuHanwat&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats-git-mastermr-fork.vercel.app/api/top-langs/?username=HimanshuHanwat&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
+
 
 ---
 
